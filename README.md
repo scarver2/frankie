@@ -1,4 +1,4 @@
-# Frankie
+# [Frankie](https://github.com/scarver2/frankie)
 
 Frankie is a boilerplate [Sinatra](https://sinatrarb.com) repository demonstrating lightweight web applications, web services, and background workers with a varitey of commonly used software technologies. It's the perfect little repo for the quick creation of microservices and microsites.
 
