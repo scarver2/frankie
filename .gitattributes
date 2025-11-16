@@ -1,0 +1,9 @@
+*.css             text diff=css
+*.erb             text diff=uby
+*.htm             text diff=html
+*.html            text diff=html
+*.js              text diff=javascript
+*.md              text diff=markdown
+*.rb              text diff=ruby
+*.ru              text diff=ruby
+*.scss            text diff=css
