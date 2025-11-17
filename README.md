@@ -84,6 +84,6 @@ As with any good framework, Sinatra would not be as useful as it is without the 
 
 ## Credits
 
-* [Matz](https://matz.rubyist.net){:target="_blank"} for creating the Ruby language.
-* [Sinatra](https://sinatrarb.com){:target="_blank"}, the *Sultans of Sweeb* apps
+* [Matz](https://matz.rubyist.net) for creating the Ruby language.
+* [Sinatra](https://sinatrarb.com) the *Sultans of Sweeb* apps
 * [My Kids' Hero](https://scarver2.github.io)
