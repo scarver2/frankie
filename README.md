@@ -1,4 +1,4 @@
-<img src="https://getdrawings.com/img/frank-sinatra-silhouette-29.jpg" width="200" alt="The Sultan of Swoon" />
+<img src="https://ik.imagekit.io/a1web/A1Web/frank-sinatra-silhouette.png" width="200" alt="The Sultan of Swoon" />
 
 # [Frankie](https://github.com/scarver2/frankie)
 
