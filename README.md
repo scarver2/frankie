@@ -8,9 +8,9 @@ Sinatra is a *nuts-and-bolts* tool that allows the creation of simple websites a
 
 ## Usage
 
-*see [usage](USAGE.md) file in each branch*
+*visit the [USAGE](USAGE.md) file in each branch for implementation instructions*
 
-## Software Technologies Implemented
+## Software Technologies
 * [Guard](https://guard.github.io/guard/) for hands-free linting & testing in development 
 * [Rackup](https://github.com/rack/rackup) serving Rack application daily
 * [RSpec](https://rspec.info) a test suite for reliable, error-free applications
@@ -19,7 +19,7 @@ Sinatra is a *nuts-and-bolts* tool that allows the creation of simple websites a
 * [SimpleCov](https://github.com/simplecov-ruby/simplecov) reveals any missed bits while testing. (Covers bytes and lines of code too!)
 * [Sinatra](https://sinatrarb.com) a nimble web technology for rapid development without a PhD requirement
 
-### Directory Structure
+## Directory Structure
 
 Each branch can be checked out based on the features and complexity of the application needed.
 
@@ -59,7 +59,7 @@ Each branch can be checked out based on the features and complexity of the appli
 
 More info on [Sinatra Directory Structures](https://github.com/scarver2/frankie/wiki/Directory-Structure)
 
-### Roadmap
+## Roadmap
 
 Frankie's goal is to demonstrate implementaions of common database, queues, frameworks, and programming techniques.
 
