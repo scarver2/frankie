@@ -4,7 +4,7 @@
 
 ## Documentation of Usage
 
-View Frankie's [\<branch_name>/USAGE.md](https://github.com/scarver2/frankie/blob/<branch_name>/USAGE.md) file for instructions.
+View [Frankie's \<branch_name> USAGE](https://github.com/scarver2/frankie/blob/<branch_name>/USAGE.md) file for instructions.
 
 ## Explanation of Source Code
 
