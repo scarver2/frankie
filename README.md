@@ -8,44 +8,37 @@ Sinatra is a *nuts-and-bolts* tool that allows the creation of simple websites a
 
 ## Usage
 
-*see [usage](USAGE.md) file in each branch*
+*visit the [USAGE](USAGE.md) file in each branch for implementation instructions*
 
-## Software Technologies Implemented
-* [Guard](https://guard.github.io/guard/) for hands-free linting & testing in development 
-* [Rackup](https://github.com/rack/rackup) serving Rack application daily
-* [RSpec](https://rspec.info) a test suite for reliable, error-free applications
-* [Rubocop](https://rubocop.org) elegantly-written code every time
-* [Ruby](https://www.ruby-lang.org) an easy programming language with superpowers
-* [SimpleCov](https://github.com/simplecov-ruby/simplecov) reveals any missed bits while testing. (Covers bytes and lines of code too!)
-* [Sinatra](https://sinatrarb.com) a nimble web technology for rapid development without a PhD requirement
-
-### Directory Structure
+## Features
 
 Each branch can be checked out based on the features and complexity of the application needed.
 
-* [Single-File Sinatra Web Application](https://github.com/scarver2/frankie/wiki/Inline-Sinatra-App) - demonstrates single-file inline HTTP server.
-* [Basic Sinatra Web Application](https://github.com/scarver2/frankie/wiki/Basic-Sinatra-App) - demonstrates a *rackable* web application.
+* [Rudimentary Sinatra Web Application](https://github.com/scarver2/frankie/wiki/Rudimentary-Sinatra-App) - demonstrates a single-file inline HTTP server.
+* [Basic Sinatra Web Application](https://github.com/scarver2/frankie/wiki/Basic-Sinatra-App) - demonstrates a *rackable* website application with typical content pages and contact form.
 * [Advanced Sinatra Application](https://github.com/scarver2/frankie/wiki/Advanced-Sinatra-App) - demonstrates a more sophisticated application that can be enhanced with background workers or migrated to another framework.
 
 <table>
   <thead>
     <tr>
-      <td><b><a href="https://github.com/scarver2/frankie/wiki/Inline-Sinatra-App">Inline</a><b></td>
-      <td><b><a href="https://github.com/scarver2/frankie/wiki/Basic-Sinatra-App">Simple</a></b></td>
-      <td><b><a href="https://github.com/scarver2/frankie/wiki/Advanced-Sinatra-App">Advanced</a></b></td>
+      <th></th>
+      <th><b><a href="https://github.com/scarver2/frankie/wiki/Rudimentary-Sinatra-App">Rudimentary</a><b></th>
+      <th><b><a href="https://github.com/scarver2/frankie/wiki/Basic-Sinatra-App">Simple</a></b></th>
+      <th><b><a href="https://github.com/scarver2/frankie/wiki/Advanced-Sinatra-App">Advanced</a></b></th>
     </tr>
   </thead>
-  <tbody>
-    <tr valign="top">
-      <td style="width: 33%">
+  <tbody style="align:left; line-height: 1.25em; vertical-align: top; font-size: .95em; font-family: monospace;">
+    <tr>
+      <td style="font-weight: bold;">Directory Structure</td>
+      <td style="min-width: 25%;">
         └─  app.rb
-      </td>
-      <td style="width: 33%">
+      </th>
+      <td style="min-width: 25%">
         ├─ app.rb<br />
         ├─ config.ru<br />
         └─ Gemfile
       </td>
-      <td style="min-width: 33%">
+      <td style="min-width: 25%">
         ├─ app<br />
         ├─ lib<br />
         ├─ spec<br />
@@ -54,12 +47,20 @@ Each branch can be checked out based on the features and complexity of the appli
         └─ Guardfile
       </td>
     </tr>
+    <tr>
+      <td style="font-weight: bold;">Example Branches</td>
+      <td>
+        <a href="https://github.com/scarver2/frankie/tree/rudimentary">Rudimentary</a>
+      </td>
+      <td>coming soon</td>
+      <td>coming soon</td>
+    </tr>
   </tbody>
 </table>
 
 More info on [Sinatra Directory Structures](https://github.com/scarver2/frankie/wiki/Directory-Structure)
 
-### Roadmap
+## Roadmap
 
 Frankie's goal is to demonstrate implementaions of common database, queues, frameworks, and programming techniques.
 
