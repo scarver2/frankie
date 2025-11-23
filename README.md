@@ -29,6 +29,42 @@ Each branch can be checked out based on the features and complexity of the appli
   </thead>
   <tbody style="align:left; line-height: 1.25em; vertical-align: top; font-size: .95em; font-family: monospace;">
     <tr>
+      <td style="font-weight: bold;">Architecture</td>
+      <td style="min-width: 25%;">
+        Single-file
+      </th>
+      <td style="min-width: 25%">
+        Rack-Optimized
+      </td>
+      <td style="min-width: 25%">
+        Service-Ready
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold;">Recommend Usage</td>
+      <td style="min-width: 25%;">
+        rapid prototyping, single-purpose microservices or endpoints
+      </th>
+      <td style="min-width: 25%">
+        websites, forms, and APIs
+      </td>
+      <td style="min-width: 25%">
+        leverage queues, background workers, and other integrations.
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold;">Complexity</td>
+      <td style="min-width: 25%;">
+        Simplistic
+      </th>
+      <td style="min-width: 25%">
+        Modular
+      </td>
+      <td style="min-width: 25%">
+        Scalable
+      </td>
+    </tr>
+    <tr>
       <td style="font-weight: bold;">Directory Structure</td>
       <td style="min-width: 25%;">
         └─  app.rb
@@ -50,7 +86,8 @@ Each branch can be checked out based on the features and complexity of the appli
     <tr>
       <td style="font-weight: bold;">Example Branches</td>
       <td>
-        <a href="https://github.com/scarver2/frankie/tree/rudimentary">Rudimentary</a>
+        <a href="https://github.com/scarver2/frankie/tree/rudimentary">Rudimentary</a><br>
+        <a href="https://github.com/scarver2/frankie/tree/rudimentary-template">Rudimentary Template</a><br>
       </td>
       <td>coming soon</td>
       <td>coming soon</td>
